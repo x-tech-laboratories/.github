@@ -26,6 +26,8 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <!-- White panel behind the cut-out X, so it stays white on dark backgrounds. -->
+  <rect x="46" y="40" width="44" height="56" fill="#ffffff"/>
   <g
      id="layer1"
      transform="translate(35.162872,-43.024353)">

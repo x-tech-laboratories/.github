@@ -14,32 +14,14 @@ Logos, icons and design rules for X-Tech Laboratories and its projects.
 Each SVG has a PNG next to it. The lettering in the logos is already converted to outlines, so they
 look the same without the font installed.
 
-The X is cut out of the hexagon, so the background shows through it. On a dark background, put a
-white shape behind the X, or use the inverted icon.
+The X is cut out of the hexagon. The full logo and the icon carry a white panel behind the X, so it
+stays white on a dark background. The short logo has no panel: on a dark background, put a white
+shape behind its X, or use the inverted icon.
 
-## Colours
+## Colours, fonts and naming
 
-| Name       | Hex       | Use                                  |
-| ---------- | --------- | ------------------------------------ |
-| Baby blue  | `#0088ff` | The brand colour: logo, icon, links. |
-| Sky blue   | `#00acff` | The icon pack.                       |
-| White      | `#ffffff` | Backgrounds and the X in the icon.   |
-
-## Fonts
-
-- [Rajdhani](https://fonts.google.com/specimen/Rajdhani) Bold, by Indian Type Foundry, for the logo
-  and headings.
-- [Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans) for body text.
-
-Both are free under the SIL Open Font License.
-
-## Naming
-
-- Names of X-Tech projects and services begin with `X-` followed by a descriptive word, for example
-  X-Notes or X-Security.
-- Extra words are joined with more hyphens, for example X-Device-Management-Interface.
-- A long name may be shortened to an acronym when that is easier to say, for example XDMI.
-- Where a hyphen is not allowed, drop it and use camel case, for example XNotes.
+The colour scheme, fonts and naming scheme are in the
+[Design Guidelines](https://x-tech-laboratories.github.io/standards/design/) on the website.
 
 ## How the icon and logo are built
 

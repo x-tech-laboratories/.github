@@ -3,7 +3,7 @@
 Organisation-wide files for [X-Tech Laboratories](https://github.com/x-tech-laboratories).
 
 - `profile/README.md` is shown on the organisation's GitHub page.
-- `branding/` holds the logos, icons and design rules.
+- `branding/` holds the logos and icons. The design rules are on the [website](https://x-tech-laboratories.github.io/standards/design/).
 - `AI_POLICY.md`, `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, `SECURITY.md`, `SUPPORT.md` and the issue
   and pull request templates in `.github/` apply to every repository that has no file of its own.
 
