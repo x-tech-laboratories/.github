@@ -1,5 +1,7 @@
 # x-tech-laboratories/.github
 
+<a href="https://liberapay.com/BeatLink/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+
 Organisation-wide files for [X-Tech Laboratories](https://github.com/x-tech-laboratories).
 
 - `profile/README.md` is shown on the organisation's GitHub page.
